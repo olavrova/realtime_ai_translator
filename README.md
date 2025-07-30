@@ -6,6 +6,7 @@ This application enables translation of text between 10 European languages using
 Languages supported: German (de), English (en), Greek (el), Spanish (es), French (fr), Italian (it), Polish (pl), Portuguese (pt), Romanian (ro), Dutch (nl).
 
 The app provides a simple web UI built with Streamlit, allowing users to select source and target languages, input text, and get AI-powered translations.
+![img.png](img.png)
 
 ---
 
